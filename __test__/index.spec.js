@@ -134,7 +134,5 @@ describe("To-Do List Functions", () => {
 
       mockExit.mockRestore();
     });
-
-
   });
 });
